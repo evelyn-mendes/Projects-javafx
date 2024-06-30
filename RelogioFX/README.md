@@ -4,7 +4,7 @@
 
 A aplicação feita para exibir data e hora. Feita na linguagem Java, utilizando bibliotecas do javafx juntamente com o scene builder.
 
-## Instrução de instalação
+# Instrução de instalação
 
 ### Pré requisitos
 
