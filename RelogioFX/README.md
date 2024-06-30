@@ -13,14 +13,14 @@ A aplicação feita para exibir data e hora. Feita na linguagem Java, utilizando
 - [Scene Builder](https://gluonhq.com/products/scene-builder/)
 
 
-# How Contribute
+## How Contribute
 
 ```bash 
  # Clone the project 
  $ git clone 
  # Clone inside in git bash 
 ```
-# Folder Structure
+## Folder Structure
 
 The workspace contains two folders by default, where:
 
