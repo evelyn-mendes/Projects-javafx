@@ -16,13 +16,15 @@ public class DateH_Controller {
     @FXML
     private Label lblAlterar;
 
+    //Evento de clique no botão
     @FXML
     void showDateAndH(ActionEvent event) {
-        // Date hors = new Date();
-            LocalDate date = LocalDate.now();
-            LocalTime hours = LocalTime.now();
 
-            lblAlterar.setText("Hora: " + hours + " " + "\nData: " + date);
+        LocalDate date = LocalDate.now();
+        LocalTime hours = LocalTime.now();
+
+        //Configurar o que irá ser imprimido em "lblAlterar"
+        lblAlterar.setText("Hora: " + hours + " " + "\nData: " + date);
         
     }
 
