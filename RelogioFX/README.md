@@ -6,7 +6,7 @@ A aplicação feita para exibir data e hora. Feita na linguagem Java, utilizando
 
 ## Instrução de instalação
 
-### Pré requisitos
+### Prerequisites
 
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 - [JavaFx](https://gluonhq.com/products/javafx/)
@@ -17,7 +17,7 @@ A aplicação feita para exibir data e hora. Feita na linguagem Java, utilizando
 
 ```bash 
  # Clone the project 
- $ git clone 
+ $ git clone https://github.com/evelyn-mendes/projetos-javafx.git
  # Clone inside in git bash 
 ```
 ## Folder Structure
