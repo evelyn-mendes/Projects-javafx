@@ -1,0 +1,33 @@
+.list-view{
+    -fx-font-size: 16px;
+    -fx-background-color: #d1deee;
+    -fx-color: #7993b5;
+}
+
+.list-view .list-cell{
+
+    -fx-background-color: transparent;
+    -fx-text-fill: #7993b5;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.v-box{
+    -fx-background-color: #d1deee;
+}
+
+.btn{
+
+    -fx-background-radius: 25px;
+    -fx-background-color: #7993b5;
+    -fx-text-fill: white;
+}
+
+.btn:hover{
+
+    -fx-background-color: white;
+    -fx-text-fill: #7993b5;
+    -fx-background-border: #7993b5;
+}
+
+
