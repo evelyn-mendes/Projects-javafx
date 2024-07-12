@@ -60,8 +60,8 @@ public class ContarController implements Initializable{
         box.getStyleClass().add("v-box"); // Adicionando uma classe para que ele pegue o estilo CSS
 
         // Button
-        btn.getStylesheets().add(cssURL.toExternalForm()); // Importanto o estilo
-        btn.getStyleClass().add("btn"); // Adicionando uma classe para que ele pegue o estilo CSS
+        btn.getStylesheets().add(cssURL.toExternalForm());
+        btn.getStyleClass().add("btn"); 
         //btn.setStyle("-fx-background-color: lightgray; -fx-text-fill: red;");
 
 
@@ -107,8 +107,8 @@ public class ContarController implements Initializable{
 
         int inicio, fim, pulo;
         inicio = (int)sliderStart.getValue(); // Pega o valor do sliderStart e o converte para inteiro
-        fim = (int)sliderEnd.getValue(); // Pega o valor do sliderStart e o converte para inteiro
-        pulo = (int)sliderStep.getValue(); // Pega o valor do sliderStart e o converte para inteiro
+        fim = (int)sliderEnd.getValue(); 
+        pulo = (int)sliderStep.getValue(); 
 
         listNum.getItems().clear();
 
