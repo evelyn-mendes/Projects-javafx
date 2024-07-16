@@ -36,8 +36,8 @@ Você não precisa apenas utilizar o Visual Studio Code, você pode utilizar out
 
 No workspace contém duas pastas por padrão, onde:
 
-- `src`: a pasta para manter os aquivos
-- `lib`: the folder to maintain dependencies
+- `src`: a pasta para manter os aquivos.
+- `lib`: a pasta para manter as dependências.
 
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
