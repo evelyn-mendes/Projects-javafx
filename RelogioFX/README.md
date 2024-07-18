@@ -75,7 +75,7 @@ Caso não tenha a pasta `.vscode/settings.json`, vá em "Executar/Adicionar Conf
 <summary> <h2> In English </h2> </summary> 
 
 # 📖 About
-This application displays date and time. Made in the Java language, using `javafx library` together with the `scene builder`, and the IDE `visual studio code`.
+This application displays the date and time. Made in the Java language, using the `javafx library` together with the `scene builder`, and the IDE `visual studio code`.
 
 # 📚Installation Instruction 
 
@@ -90,7 +90,7 @@ This application displays date and time. Made in the Java language, using `javaf
 # 👨‍💻 Technologies Used
 - Java - Version: 21.0.2.
 - Scene Builder.
-- For the criation of application: [Visual Studio Code](https://code.visualstudio.com/).
+- For the criation of application: [Visual Studio Code](https://code.visualstudio.com/)
 
 ### ❗❗ ATTENTION
 You don't just have to use Visual Studio Code, you can use others IDE's. Example: [IntelliJ](https://lp.jetbrains.com/intellij-idea-features-promo/?source=google&medium=cpc&campaign=AMER_en_BR_IDEA_Branded&term=intellij&content=693349187724&gad_source=1&gclid=Cj0KCQjw-ai0BhDPARIsAB6hmP673F8TA-JX7HkziM3Bx9X35teYxXtzL45KqeaU1BCZYotVjb4yVGYaAr8sEALw_wcB), [Eclipse](https://www.eclipse.org/downloads/), [Netbeans](https://netbeans.apache.org/front/main/download/nb22/), etc.
@@ -102,7 +102,7 @@ You don't just have to use Visual Studio Code, you can use others IDE's. Example
 ```bash 
  # Clone the project 
  $ git clone https://github.com/evelyn-mendes/projetos-javafx.git
- # Clone inside in Git Bash 
+ # Clone inside the Git Bash 
 ```
 
 <br>
