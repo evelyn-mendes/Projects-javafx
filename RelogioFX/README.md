@@ -41,7 +41,7 @@ No workspace contém duas pastas por padrão, onde:
 
 Enquanto isso, os arquivos compilados serão gerados na pasta `bin` por padrão.
 
-> Se você quer customizar a estrutura de pastas, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
+> Se você quer customizar a pasta, abra `.vscode/settings.json` e atualize as configurações relacionadas lá.
 
 <br>
 
@@ -84,7 +84,7 @@ This application displays the date and time. Made in the Java language, using th
 - [JDK 21.0.2](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 - [JavaFx](https://gluonhq.com/products/javafx/).
 - [Scene Builder](https://gluonhq.com/products/scene-builder/).
-- 
+
 <br>
 
 # 👨‍💻 Technologies Used
